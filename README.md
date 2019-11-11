@@ -11,7 +11,10 @@ Simple X11 app example on mac os x in single file [xl01.cpp](xl01.cpp)
 * launch ```XQuartz.app```
 * launch xterm from XQuartz
 * run ```./xl01``` from xterm
-* see screenshot [http://note.io/1d0uOdS]()
+
+screenshot
+
+![](https://www.evernote.com/l/AAF3t3W7ss5Fjblvz4a9O-89aJesLSqi7dwB/image.png)
 
 ## Resources
 
