@@ -6,6 +6,10 @@ Simple X11 app example on mac os x in single file [xl01.cpp](xl01.cpp)
 
 	g++ xl01.cpp -o xl01 -I/opt/X11/include -I/opt/X11/include/X11 -L/opt/X11/lib -L/opt/X11/lib/X11 -lX11
 
+## Prerequisites
+
+* [XQuartz](https://www.xquartz.org/) - installs to `/Applications/Utilities/XQuartz.app`
+
 ## Run
 
 * launch ```XQuartz.app```
